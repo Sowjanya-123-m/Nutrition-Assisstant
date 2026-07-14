@@ -44,9 +44,7 @@ The Nutrition Assistant enables users to:
 - dotenv
 - cors
 
-## AI Integration
 
-- Google Gemini AI (Gemini 2.5 Flash)
 
 ## Development Tools
 
